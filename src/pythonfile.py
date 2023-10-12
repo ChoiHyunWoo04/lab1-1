@@ -26,3 +26,5 @@ def heapSort(lst):
 lst = [10, 7, 3, 9, 1, 5]
 heapSort(lst)
 print(lst)
+
+# push push
